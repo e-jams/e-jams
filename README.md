@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @e-jams
 - 👀 I’m interested in learning code
 - 🌱 I’m currently learning wordpress
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
 
 <!---
 e-jams/e-jams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
